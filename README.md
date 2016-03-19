@@ -2,6 +2,8 @@
 A GUI version of the Cafiine server, a file replacement tool for the Wii U, based on Cafiine Server v1.2 by Chadderz.
 Makes it easier to replace and dump game files.
 
+![Cafiine Server](http://puu.sh/nMx2d/ba1c9d9da7.png "cafiineserver")
+
 # How to use (FW 5.3.2)
 
 1.- Run the server on your PC. Make sure both your PC and Wii U are connected to the same network.
